@@ -1,2 +1,2 @@
-print("Hej Mazen, hej Hjalmar")
+print("Hej Mazen, hej Hjalmar! Hej på Er!")
 print("BJÖÖRN")
